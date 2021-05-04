@@ -1,0 +1,12 @@
+____GIT OVERVIEW _____
+I. Repository
+ Reposity is position save history code, document
+ Data of respository in .git file hide 
+ Have 2 repository: Local Repository and Remote Repository 
+1. Git commit 
+2. Git branch
+    + git branch [newBranch]
+    + git checkout [nameBranch]: transfer from branch to another branch
+3. Git pull/git fetch
+    + git pull get data to workspace (git fetch and git merge)
+    + git fetch use check but no merge (git fetch to local repository)
